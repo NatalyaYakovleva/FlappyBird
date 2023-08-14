@@ -1,0 +1,7 @@
+E:\VisualStudioCommunity\ConsoleApp\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+E:\VisualStudioCommunity\ConsoleApp\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+E:\VisualStudioCommunity\ConsoleApp\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+E:\VisualStudioCommunity\ConsoleApp\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+E:\VisualStudioCommunity\ConsoleApp\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+E:\VisualStudioCommunity\ConsoleApp\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+E:\VisualStudioCommunity\ConsoleApp\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
